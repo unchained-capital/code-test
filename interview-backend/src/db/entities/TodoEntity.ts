@@ -6,5 +6,5 @@ export class TodoEntity {
   id: number;
   
   @Column()
-  content: string
+  content: string;
 }

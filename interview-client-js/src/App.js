@@ -1,7 +1,7 @@
 import React, {useEffect} from "react";
 
 async function getTodos() {
-  return []
+  return [];
 }
 
 const App = () => {
