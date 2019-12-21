@@ -1,5 +1,5 @@
 
-#PART 1 - Setup
+# PART 1 - Setup
 
 Use Node 12 and npm 6.12
 Install Docker to use the local database
@@ -20,7 +20,7 @@ npm install
 npm start
 ```
 
-#Part 2 - Requirements for Todo List Application
+# Part 2 - Requirements for Todo List Application
 
 In this project, there is a Typescript backend and a React Javascript frontend.
 
